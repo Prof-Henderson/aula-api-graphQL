@@ -1,8 +1,11 @@
-Instale as seguintes bibliotecas:
+## 📦 Instalação de Pacotes Necessários
 
+Antes de executar o projeto, certifique-se de que você tem o Python instalado. Depois, instale as bibliotecas necessárias com os seguintes comandos:
+
+```bash
 pip install flask graphene
+pip install flask-graphql
 
-pip install graphene flask-graphql
 
 
 # 📦 API GraphQL com Flask e Graphene
