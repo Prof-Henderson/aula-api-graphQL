@@ -1,4 +1,4 @@
-## 📦 Instalação de Pacotes Necessários
+# 📦 Instalação de Pacotes Necessários
 
 Antes de executar o projeto, certifique-se de que você tem o Python instalado. Depois, instale as bibliotecas necessárias com os seguintes comandos:
 
