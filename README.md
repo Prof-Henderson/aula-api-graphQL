@@ -1,4 +1,5 @@
-# 📦 Instalação de Pacotes Necessários
+# Projeto
+## 📦 Instalação de Pacotes Necessários
 
 Antes de executar o projeto, certifique-se de que você tem o Python instalado. Depois, instale as bibliotecas necessárias com os seguintes comandos:
 
@@ -14,7 +15,7 @@ Este projeto é uma API simples feita com **Flask** e **Graphene (GraphQL)** em 
 
 ---
 
-## 📘 Sintaxe do GraphQL
+# 📘 Sintaxe do GraphQL
 
 GraphQL é uma linguagem de consulta para APIs. Diferente do REST, que usa múltiplas rotas, o GraphQL trabalha com apenas **um endpoint** e permite que o cliente defina **exatamente os dados que deseja**.
 
